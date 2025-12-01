@@ -21,5 +21,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
+<<<<<<< HEAD
 
 """local conflict 2"""
+=======
+"""Hello World"""
+>>>>>>> origin/main
