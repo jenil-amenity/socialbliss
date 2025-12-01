@@ -24,6 +24,4 @@ urlpatterns = [
 <<<<<<< HEAD
 
 """local conflict 2"""
-=======
-"""Hello World"""
->>>>>>> origin/main
+"""Git chnages 2"""
